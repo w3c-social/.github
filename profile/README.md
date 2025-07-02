@@ -1,9 +1,11 @@
 This GitHub organization was used by the [W3C Social Web Working Group](https://www.w3.org/wiki/SocialWG) (SocialWG) for various projects & documents.
 
-The SocialWG is no longer active. Work advancing standards produced by the SocialWG is happening in the [W3C Social Web Community Group](https://www.w3.org/community/socialcg/) (SocialCG), which anyone can join.
-
-For the latest updates to SocialWG specifications, see the Editor’s Draft link for each in the list here: 
+The first SocialWG closed 2018-02-13. For the latest updates to SocialWG specifications, see the Editor’s Draft link for each in the list here: 
 * https://www.w3.org/wiki/Socialwg#Specifications
+
+A [Draft Charter](https://w3c.github.io/charter-drafts/2025/social-wg.html) is currently under development to start a new Social Web Working Group.
+
+Additional work on new and revised social web proposals and specifications is happening in the [W3C Social Web Community Group](https://www.w3.org/community/socialcg/) (SocialCG), which anyone can join.
 
 <!-- optional things from the stub GitHub gives you for org-level READMEs:
 
